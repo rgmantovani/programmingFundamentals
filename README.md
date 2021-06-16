@@ -12,4 +12,5 @@ Este repositório contém o material de apoio para as disciplinas de: Fundamento
 
 Qualquer dúvida, ou sugestão, por favor, entre em contato:
 * prof. Luiz Fernando Carvalho, UTFPR - Apucarana, email: luizfcarvalho@utfpr.edu.br
+* prof. Muriel de Souza Godoi,  UTFPR - Apucarana, email: muriel@utfpr.edu.br
 * prof. Rafael Gomes Mantovani, UTFPR - Apucarana, email: rafaelmantovani@utfpr.edu.br
