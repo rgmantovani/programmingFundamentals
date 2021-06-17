@@ -1,0 +1,21 @@
+1. Crie um vetor de 5 posições e imprima sem modificar os valores iniciais contidos no vetor.
+
+2. Crie e inicialize um vetor de inteiros e faça a soma dos seus elementos. Apresente o resultado.
+
+3. Leia 5 números e imprima em ordem inversa de leitura.
+
+4. Ler um vetor A com 10 elementos inteiros correspondentes as idades de um grupo de pessoas. Escreva um programa que determine e escreva a quantidade de pessoas que possuem idade superior a 35 anos.
+
+5. Dado dois vetores, A (4 elementos) e B (5 elementos), faça um programa em C que imprima todos os elementos comuns aos dois vetores.
+
+6. Leia um vetor de 10 posições e imprima o maior valor, menor valor e a média dos valores contidos no vetor.
+
+7. Números palíndromos são aqueles que escritos da direita para a esquerda têm o mesmo valor quando escritos da esquerda para a direita. Exemplo: 545; 789987; 97379; 123454321; etc. Escreva um programa que verifique se um dado vetor A de 10 elementos inteiros é um palíndromo, ou seja, se o primeiro elemento do vetor e igual ao último, se o segundo elemento do vetor é igual ao penúltimo e assim por diante até verificar todos os elementos ou chegar a conclusão que o vetor não é um palíndromo.
+
+8. Criar dois vetores A e B cada um com 10 elementos inteiros. Desenvolver um programa que crie um vetor C que é a diferença dos conjuntos formados pelos elementos dos vetores A e B. Diferença de conjuntos = todos os elementos do conjunto A que não existem no conjunto B.
+
+9. Crie um vetor que armazene 10 valores inteiros fornecidos pelo usuário. Mostre qual é o menor elemento e a posição em que ele se encontra no vetor.
+
+10. Escreva um algoritmo que leia e mostre um vetor de 10 números inteiros. A seguir, conte quantos valores pares existem no vetor.
+
+11. Faça um algoritmo que leia 10 valores inteiros e armazene em um vetor A. Inverta então os valores de A. Troque o primeiro pelo último, segundo pelo penúltimo e assim por diante. Mostre o vetor A após as alterações.
