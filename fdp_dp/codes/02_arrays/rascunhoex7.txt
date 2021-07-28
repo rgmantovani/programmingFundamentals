@@ -1,0 +1,55 @@
+Exercício 7. Dada uma sequência de Números reais, determinar
+os números que compõem a sequência e o número de vezes que cada um
+deles ocorre na mesma. Por exemplo:
+
+  * N = 8
+  * Sequencia: -1.7, 3.0, 0.0, 1.5, 0.0, -1.7, 2.3, -1,7
+  * Saída: -1.7 ocorre 3 vezes
+            3.0 ocorre 1 vez
+            0.0 ocorre 2 vezes
+            1.5 ocorre 1 vez
+            2.3 ocorre 1 vez
+_____________________________________________________________________
+
+[Entradas] -> Raciocinio -> [Saidas]
+
+# Entradas (inputs)
+  - N: quantidade de numeros (int)
+  - Sequencia: sequencia de numeros reais (floats)
+
+# Raciocinio [logica do programa]
+
+  1) Obter a quantidade de numeros da sequencia (N)
+  2) Obter os numeros da sequencia (floats) -> vetor
+
+  A) descobrir quais sao os numeros unicos (tirando os repetidos)
+  B) contar o nro de vezes que cada elemento unico aparece na sequencia
+    X) Precisa: contador para cada numero (unico)
+
+// vetor  -> sequencia (leitura)
+// vetor2 -> unicos
+// vetor3 -> contagem desses elementos unicos
+
+vetor  = [-1.7, 3.0, 0.0, 1.5, 0.0, -1.7, 2.3, -1,7]
+vetor2 = [-1.7, 3.0, 0.0, 1.5, 2.3]
+vetor3 = [3, 1, 2, 1, 1]
+
+[Entrada]
+vetor  = [2, 8, 9, 2, 7, 5, 2, 9, 1, 0]
+
+[Raciocinio]
+vetor2 = [2, 8, 9, 7, 5, 1, 0] // elementos unicos
+vetor3 = [3, 1, 2, 1, 1, 1, 1] // contagem dos elementos unicos
+
+[Saida]
+2 ocorre 3 vezes
+8 ocorre 1 vez
+9 ocorre 2 vezes
+7 ocorre 1 vez
+5 ocorre 1 vez
+1 ocorre 1 vez
+0 ocorre 1 vez
+
+# Saidas (output)
+  - elementos unicos da sequencia
+  - para cada elemento unico mostrar a quantidade de vezes/contagem que aparece

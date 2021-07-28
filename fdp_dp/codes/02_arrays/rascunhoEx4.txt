@@ -1,0 +1,37 @@
+Exercício 4. Leia um vetor A com 10 elementos inteiros
+correspondentes as idades de um grupo de pessoas.
+Escreva um programa que determine e escreva a quantidade
+de pessoas que possuem idade superior a 35
+anos.
+
+ // [entradas] -> instrucoes -> [saidas]
+ # Entradas (inputs)
+  - 10 valores correspondentes a idades, vetor
+  (vetor [10 posicoes])
+  (inteiros)
+  Restrições: idades positivas
+
+  # Raciocinio (instrucoes) [Entradas -> Saida]
+
+  1) criar vetor de 10 posicoes
+  2) obter os dados de entrada (scanf) # alimentar o programa
+    - a) usuario     - digite 10 valores
+    - b) programador - inicializar o vetor com 10 valores
+
+  3) o que eu ja tenho? tenho um vetor com 10 valores validos
+    - 10 idades numericas positivas
+
+  [idade 1, idade 2, idade 3, idade 4, idade 5, ..., idade 10]
+
+  4) criar um contador (inteira) = 0
+  5) Verificar: se cada idade é maior que 35
+    - percorrer o vetor, posição por posição
+    - se o valor dentro da posição corrente for > 35
+      - aumenta em 1 o contador
+    - senão, não faz nada
+
+  6) contador = quantidade de idades acima de 35
+    - impressão da saida (printf)
+
+  # Saida (output)
+  - retornar/mostrar/imprimir quantidade de idades > 35 anos
