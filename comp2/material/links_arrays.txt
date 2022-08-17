@@ -1,0 +1,13 @@
+
+* Links:
+http://www.bosontreinamentos.com.br/programacao-em-linguagem-c/arrays-em-c-declaracao-inicializacao-e-atribuicao-de-valores/
+https://www.programiz.com/c-programming/c-arrays
+http://linguagemc.com.br/vetores-ou-arrays-em-linguagem-c/
+https://www.tutorialspoint.com/cprogramming/c_arrays.htm
+https://www.geeksforgeeks.org/arrays-in-c-cpp/
+
+
+* Video aulas:
+https://www.youtube.com/watch?v=nD88UCeOLKk
+https://www.youtube.com/watch?v=CtM7o2rsTic
+https://www.youtube.com/watch?v=yN2LGNkBf9o
