@@ -1,0 +1,16 @@
+PROGRAMA MEDIA
+cont = 0
+soma = 0
+media = 0
+LER(idade) % alguem vai digitar o nro
+Enquanto (idade != 0):
+  soma = soma + idade
+  contador = contador + 1
+  LER(idade)
+fim enquanto
+Se (contador == 0):
+  IMPRIME (0)
+Senão
+  media = soma/contador
+  IMPRIME(media)
+fim se

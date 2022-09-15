@@ -1,0 +1,12 @@
+PROGRAMA +18
+idade = 0
+cont = 0
+mais18 = 0
+Enquanto(cont != 10)
+  LER (idade)
+  Se(idade >=18) :
+    mais18 = mais18 + 1
+  fim se
+  cont = cont + 1
+fim enquanto
+IMPRIME(mais18)

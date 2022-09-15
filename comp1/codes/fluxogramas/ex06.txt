@@ -1,0 +1,15 @@
+PROGRAMA MAIOR-MENOR
+LER(numero)
+maior = numero
+menor = numero
+Enquanto (numero != 0):
+  Se (numero > maior):
+      maior = numero
+  fim se
+  Se (numero < menor):
+      menor = numero
+  fim se
+  LER (numero) % se numero for igual a 0 ...
+fim enquanto
+IMPRIME(MAIOR)
+IMPRIME(MENOR)

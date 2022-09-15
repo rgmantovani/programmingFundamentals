@@ -1,0 +1,6 @@
+PROGRAMA Tabuada
+cont = 0
+enquanto (contador < 11):
+  Imprimir (contador * 7)
+  contador = contador + 1
+fim Programa
